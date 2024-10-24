@@ -1,23 +1,23 @@
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'História',
+    'Em que ano o Brasil foi fundado?',
+    '7 de setembro de 1822'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'História',
+    'Quantos presidentes o Brasil já teve?',
+    '38'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Histoŕia',
+    'Quem inventou a lâmpada',
+    'Thomas Edison'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Histoŕia',
+    'Quantas copas o Brasil já ganhou?',
+    '5'
 )
