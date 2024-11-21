@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Histoŕia',
-    'Quem inventou a lâmpada',
+    'Quem inventou a lâmpada?',
     'Thomas Edison'
 )
 
